@@ -5,10 +5,10 @@
 <body>
 
 <div class="mainbox">
-    <div class="err">4</div>
+    <div class="err">5</div>
     <i class="far fa-question-circle fa-spin"></i>
-    <div class="err2">4</div>
-    <div class="msg">We are sorry, but maybe this page moved? Got deleted? Never existed in the first place?<p>Let's
+    <i class="far fa-question-circle fa-spin"></i>
+    <div class="msg">We are sorry, but there appeared to be an internal error<p>Let's
             go <a href="/">home</a> and try from there.</p></div>
 </div>
 
